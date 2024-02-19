@@ -2,3 +2,6 @@
 	path = box2d
 	url = git@github.com:erincatto/box2d.git
 	branch = master
+[submodule "box2d-bonk"]
+	path = box2d-bonk
+	url = https://github.com/SneezingCactus/box2d-bonk
